@@ -1,4 +1,4 @@
-# RedesignYelp
+# Redesign Yelp
 
 A Loyola University Chicago project for COMP 341, Human-Computer Interaction. Our project was to redesign Yelp's website. The team members are Kanyarak Anuchitlertchon, Linette Maliakal, Uljana Sejko, and Janeen Soria.
 
